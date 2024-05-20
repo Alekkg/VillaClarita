@@ -43,6 +43,7 @@ public class Inicio extends javax.swing.JFrame {
         jLabel1.setFont(new java.awt.Font("Roboto Black", 1, 24)); // NOI18N
         jLabel1.setText("VILLA CLARITA");
 
+        jButton1.setBackground(new java.awt.Color(102, 204, 255));
         jButton1.setFont(new java.awt.Font("Roboto", 0, 14)); // NOI18N
         jButton1.setText("Actualizacion de Productos");
         jButton1.addActionListener(new java.awt.event.ActionListener() {
@@ -54,6 +55,7 @@ public class Inicio extends javax.swing.JFrame {
         jLabel2.setFont(new java.awt.Font("Roboto", 0, 14)); // NOI18N
         jLabel2.setText("Elige la opcion que necesites :)");
 
+        jButton2.setBackground(new java.awt.Color(153, 204, 255));
         jButton2.setFont(new java.awt.Font("Roboto", 0, 14)); // NOI18N
         jButton2.setText("Registro de Factura");
         jButton2.addActionListener(new java.awt.event.ActionListener() {
@@ -62,6 +64,7 @@ public class Inicio extends javax.swing.JFrame {
             }
         });
 
+        jButton3.setBackground(new java.awt.Color(51, 204, 255));
         jButton3.setFont(new java.awt.Font("Roboto", 0, 14)); // NOI18N
         jButton3.setText("Buscar Producto");
         jButton3.addActionListener(new java.awt.event.ActionListener() {
@@ -70,6 +73,7 @@ public class Inicio extends javax.swing.JFrame {
             }
         });
 
+        jButton4.setBackground(new java.awt.Color(0, 204, 204));
         jButton4.setFont(new java.awt.Font("Roboto", 0, 14)); // NOI18N
         jButton4.setText("Salir");
         jButton4.addActionListener(new java.awt.event.ActionListener() {
@@ -78,6 +82,7 @@ public class Inicio extends javax.swing.JFrame {
             }
         });
 
+        jButton5.setBackground(new java.awt.Color(0, 204, 255));
         jButton5.setFont(new java.awt.Font("Roboto", 0, 14)); // NOI18N
         jButton5.setText("Lista de productos");
         jButton5.addActionListener(new java.awt.event.ActionListener() {
