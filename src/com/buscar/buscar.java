@@ -35,6 +35,8 @@ public class buscar extends javax.swing.JFrame {
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
 
+        jPanel1.setBackground(new java.awt.Color(255, 255, 255));
+        jPanel1.setForeground(new java.awt.Color(255, 255, 255));
         jPanel1.setPreferredSize(new java.awt.Dimension(450, 460));
 
         jLabel1.setFont(new java.awt.Font("ROG Fonts", 0, 24)); // NOI18N
@@ -43,12 +45,14 @@ public class buscar extends javax.swing.JFrame {
         jLabel2.setFont(new java.awt.Font("ROG Fonts", 0, 14)); // NOI18N
         jLabel2.setText("Codigo de producto:");
 
+        jTextField1.setBackground(new java.awt.Color(255, 255, 255));
         jTextField1.setFont(new java.awt.Font("ROG Fonts", 0, 14)); // NOI18N
         jTextField1.setText("jTextField1");
 
         jLabel3.setFont(new java.awt.Font("ROG Fonts", 0, 14)); // NOI18N
         jLabel3.setText("informacion del producto:");
 
+        jTextField2.setBackground(new java.awt.Color(255, 255, 255));
         jTextField2.setFont(new java.awt.Font("ROG Fonts", 0, 14)); // NOI18N
         jTextField2.setText("jTextField1");
         jTextField2.addActionListener(new java.awt.event.ActionListener() {
